@@ -1,0 +1,56 @@
+* {
+    background-color: #0c0c0d;
+    color: white;
+}
+
+.header {
+    height: 8vh;
+}
+
+.logo {
+    height: inherit;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo_link {
+    height: inherit;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-head {
+    height: 45em;
+    width: 100%;
+    object-fit: cover;
+    object-position: 0% 10%;
+}
+
+.article {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    font-size: 15pt;
+}
+
+.description {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 18pt;
+}
+
+.headline {
+    font-size: 40pt;
+    text-align: center;
+}
+
+li {
+    font-size: 1.5rem;
+}
+ul {
+    list-style-type: none;
+}
